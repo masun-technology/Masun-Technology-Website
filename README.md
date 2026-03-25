@@ -1,4 +1,4 @@
-# Masun-Technology-Website
+
 # Masun Technology — Official Website
 
 > **Built by first-year students. Shipping apps that actually work.**  
