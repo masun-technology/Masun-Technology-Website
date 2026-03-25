@@ -66,34 +66,6 @@ masun-website/
 
 ---
 
-## 🌐 Deployment
-
-### GitHub Pages
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, `/ (root)`
-4. Your site will be live at `https://<your-username>.github.io/<repo-name>/`
-
-### Netlify / Vercel
-Just drag and drop the folder — both platforms auto-detect static HTML sites.
-
----
-
-## 🧑‍💻 Getting Started Locally
-
-No build tools needed. Just open the file:
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
-
-# Open in browser
-open index.html
-# or
-npx serve .
-```
-
----
 
 ## 👥 Team
 
